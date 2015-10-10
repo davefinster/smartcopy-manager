@@ -1,0 +1,24 @@
+{
+  "name": "smartcopy-manager",
+  "version": "0.0.1",
+  "description": "Manager/overseer for Smartcopy based backups",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [
+    "smartos"
+  ],
+  "author": "Dave Finster <davefinster@me.com>",
+  "license": "MIT",
+  "dependencies": {
+    "assert-plus": "^0.1.5",
+    "async": "*",
+    "bunyan": "*",
+    "uuid":"*",
+    "nodemailer":"*",
+    "nodemailer-smtp-transport":"*",
+    "restify":"4.0.3",
+    "sqlite3":"3.1.0"
+  }
+}

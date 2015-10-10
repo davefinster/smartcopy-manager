@@ -1,0 +1,10 @@
+{
+  "dbFolder":"./",
+  "dbFile":"scm.sqlite3",
+  "smtpHostname":"<smtp server>",
+  "smtpPort":25,
+  "smtpUsername":"<username>",
+  "smtpPassword":"<password>",
+  "smtpFromAddress":"from@yourbackup.com",
+  "smtpToAddress":"to@yourbackup.com"
+}
